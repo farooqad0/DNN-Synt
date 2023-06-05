@@ -25,3 +25,5 @@
 <li>High Resolution seismic data</li>
 </ul>
 <p><img src="https://github.com/farooqad0/LMKR/blob/main/Images/DNN.png" alt="New" /></p>
+<p>&nbsp;</p>
+<p>The data is confidential and cannot be shared.</p>
